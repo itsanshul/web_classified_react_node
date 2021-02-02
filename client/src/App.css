@@ -1,0 +1,42 @@
+ul a{
+    text-decoration: none;
+    color: white;
+}
+ul a:hover{
+    color: lightgray;
+}
+ul li{
+    margin: 0px 20px;
+}
+.navbar{
+    justify-content: space-between;
+}
+#navbarNav{
+    width: auto;
+    margin-right: 50px;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 2rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+  }
+
+  .centre_aligned{
+      width: 400px;
+      margin: 0px auto;
+      text-align: center;
+      border: 1px solid grey;
+      padding: 3rem 0;
+  }
+  input{
+      width: 80%;
+  }
+
+  .col a{
+      text-decoration: none;
+      color: black;
+  }

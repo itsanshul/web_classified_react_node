@@ -1,0 +1,7 @@
+{
+    "mongoURIa": "mongodb://localhost:27017/classified",
+    "mongoURI": "mongodb+srv://ak12345:ak12345@classified.fiyjv.mongodb.net/classified?retryWrites=true&w=majority",
+    "jwtSecret": "somerandomsecret",
+    "fileuploadpath": "./uploads"
+
+}

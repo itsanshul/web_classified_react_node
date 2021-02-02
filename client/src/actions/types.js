@@ -1,0 +1,15 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCESS = 'REGISTER_SUCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'AUTH_ERROR';
+export const LOGOUT = 'LOGOUT';
+export const GET_ADS = 'GET_ADS';
+export const GET_AD = 'GET_AD';
+export const POST_ERROR = 'POST ERROR';
+export const ADD_AD = 'ADD_AD';
+export const CLEAR_PROFILE = 'CLEAR_PROFILE';
+export const MY_ADS = 'MY_ADS';
